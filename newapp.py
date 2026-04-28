@@ -1,3 +1,6 @@
+import os
+st.write(os.listdir())
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
