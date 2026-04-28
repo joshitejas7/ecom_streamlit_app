@@ -187,4 +187,3 @@ if page == "Conclusion and Insights":
 3. Target worst sellers/cities/products first.
         """
     )
-  
